@@ -52,7 +52,7 @@
         "html-webpack-plugin": "^5.5.0",
         "mini-css-extract-plugin": "^2.10.0",
         "postcss-loader": "^8.2.1",
-        "react-snap": "^1.13.1",
+        "react-snap": "^1.23.0",
         "source-map-loader": "^0.2.4",
         "style-loader": "^4.0.0",
         "tailwindcss": "^4.1.18",
